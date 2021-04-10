@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Services.Shared.Exceptions
+namespace Services.Shared.Domain.Exceptions
 {
     public class InvalidModelException : UserException
     {

@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Services.Shared.Domain.Interfaces
+namespace Services.Shared.Services.Repositories
 {
     public interface IReadRepository<T>
     {

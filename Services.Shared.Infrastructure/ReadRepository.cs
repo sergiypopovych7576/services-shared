@@ -1,5 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Services.Shared.Domain.Interfaces;
+using Services.Shared.Domain.Entities;
+using Services.Shared.Infrastructure.Contexts;
+using Services.Shared.Services.Repositories;
 using System;
 using System.Linq;
 using System.Threading.Tasks;

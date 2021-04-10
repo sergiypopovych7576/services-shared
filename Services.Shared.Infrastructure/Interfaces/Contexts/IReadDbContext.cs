@@ -1,4 +1,4 @@
-﻿namespace Services.Shared.Domain.Interfaces
+﻿namespace Services.Shared.Infrastructure.Contexts
 {
     public interface IReadDbContext : IDbContext
     {

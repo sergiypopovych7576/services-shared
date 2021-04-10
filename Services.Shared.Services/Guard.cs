@@ -1,4 +1,4 @@
-﻿using Services.Shared.Exceptions;
+﻿using Services.Shared.Domain.Exceptions;
 using System;
 using System.ComponentModel.DataAnnotations;
 

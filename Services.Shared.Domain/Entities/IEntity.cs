@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Services.Shared.Domain.Interfaces
+namespace Services.Shared.Domain.Entities
 {
     public interface IEntity
     {
